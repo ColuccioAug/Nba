@@ -21,12 +21,11 @@ Este repositório contém um notebook de análise exploratória de dados de joga
 - statsmodels
 
 ## Estrutura do repositório
-├── data/
-│ └── nba_data.csv (ou arquivo .zip contendo a base)
-├── notebooks/
-│ └── nba.ipynb
-├── requirements.txt
-└── README.md
+
+- `data/`: Arquivos de dados brutos ou comprimidos para análise (ex.: `nba_data.csv` ou `nba_data.zip`)  
+- `notebooks/`: Notebooks Jupyter com toda a análise e visualizações (ex.: `nba.ipynb`)  
+- `requirements.txt`: Lista de dependências Python necessárias para reproduzir o projeto  
+- `README.md`: Documentação com instruções de uso, descrição da estrutura e referências  
 
 ## Resultados
 Os principais resultados do projeto incluem:
